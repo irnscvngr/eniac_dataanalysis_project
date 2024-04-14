@@ -14,6 +14,8 @@ See the full presentation over on <a href="https://docs.google.com/presentation/
 <br>
 <br>
 <img src="images/Slide_09.png" width=400> <img src="images/Slide_10.png" width=400>
+<br>
+<br>
 
 ## Data analysis
 
@@ -24,3 +26,5 @@ See the full presentation over on <a href="https://docs.google.com/presentation/
 <br>
 <br>
 <img src="images/orders_prices_over_time.png" width=1000>
+<br>
+<br>
