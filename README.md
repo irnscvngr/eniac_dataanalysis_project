@@ -17,10 +17,10 @@ See the full presentation over on <a href="https://docs.google.com/presentation/
 
 ## Data analysis
 
-<img src="images/discounts_heatmap.png" width=800>
+<img src="images/discounts_heatmap.png" width=1000>
 <br>
 <br>
-<img src="images/discounts_barchart.png" width=800>
+<img src="images/discounts_barchart.png" width=1000>
 <br>
 <br>
-<img src="images/order_prices_over_time.png" width=800>
+<img src="images/orders_prices_over_time.png" width=1000>
