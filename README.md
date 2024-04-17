@@ -1,5 +1,7 @@
 # Eniac Data Analysis Project
 
+<img src="images/Tools_Logos.png" width=600>
+
 ## Project overview
 
 This project was part of a Data Science Bootcamp at WBS Coding School.<br>
